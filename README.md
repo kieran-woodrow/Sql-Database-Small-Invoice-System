@@ -1,7 +1,7 @@
 
 # 🏷️ Project Name
 
-Implementation of code for a compiler
+Implementation of a database for a small invoicing system
 
 ---
 ## 🗂️ Table Of Contents
@@ -16,7 +16,7 @@ Implementation of code for a compiler
 
 ## 📚 Project Overview
 
-Create code for token generation
+Implementation of a database for a small invoicing system
 
 ---
 
@@ -24,7 +24,7 @@ Create code for token generation
 
 ### Project code language used
 
-![AGPL License](https://img.shields.io/badge/SQL-007ACC?style=for-the-badge&Color=white)
+ ![AGPL License](https://img.shields.io/badge/SQL-007ACC?style=for-the-badge&Color=white)
 
 ## 💻 IDE
 
@@ -36,19 +36,19 @@ Create code for token generation
 
 1. Clone the repository
 2. Navigate to the main directory.
-3. Install python and run the code
+3. Install SQL
 
 ---
 
 ## 🎮 Usage
 
-Can be run in vs code or terminal.
+Can be run in Postgres, MySQL or the like
 
 ---
 
 ## 🏃🏻‍♂️ Running The Project
 
-1. Run compiler.py
+1. Import the database dump
 
 ---
 
